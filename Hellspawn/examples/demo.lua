@@ -4,7 +4,7 @@
 	own features where the comments say so.
 ]]
 
-local Hellspawn = loadstring(game:HttpGet("https://raw.githubusercontent.com/YOUR_NAME/Hellspawn/main/dist/Hellspawn.lua"))()
+local Hellspawn = loadstring(game:HttpGet("https://raw.githubusercontent.com/Yoki-sa/hellspanw/refs/heads/main/Hellspawn/dist/Hellspawn.lua"))()
 
 local Window = Hellspawn:CreateWindow({
 	Title = "Hellspawn",
