@@ -14,7 +14,7 @@
 	Everything is restored when you press Unload in the settings tab.
 ]]
 
-local Hellspawn = loadstring(game:HttpGet("https://raw.githubusercontent.com/YOUR_NAME/Hellspawn/main/dist/Hellspawn.lua"))()
+local Hellspawn = loadstring(game:HttpGet("https://raw.githubusercontent.com/Yoki-sa/hellspanw/refs/heads/main/Hellspawn/dist/Hellspawn.lua"))()
 
 ----------------------------------------------------------------------
 -- environment
